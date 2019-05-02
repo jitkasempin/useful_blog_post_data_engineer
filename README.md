@@ -1,17 +1,15 @@
 # Useful blog post for data engineer
 
-
-	* https://towardsdatascience.com/airflow-and-superquery-9acc87c0398d
-	* https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0
-	* https://stuff.technology/visualizing-google-big-query-datasets-in-powerbi-a01888dfb9e4
-	* https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f
-	* https://towardsdatascience.com/when-excel-isnt-enough-using-python-to-clean-your-data-automate-excel-and-much-more-a154c6bf9b49
-	* https://nuclio.io/
-	* https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
-	* https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
-	* (important)https://hackingandslacking.com/google-bigquerys-python-sdk-creating-tables-programmatically-55b326e8735b
-	* https://towardsdatascience.com/build-a-pipeline-for-harvesting-medium-top-author-data-c4d7ed73729f
-
+https://towardsdatascience.com/airflow-and-superquery-9acc87c0398d
+https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0
+https://stuff.technology/visualizing-google-big-query-datasets-in-powerbi-a01888dfb9e4
+https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f
+https://towardsdatascience.com/when-excel-isnt-enough-using-python-to-clean-your-data-automate-excel-and-much-more-a154c6bf9b49
+https://nuclio.io/
+https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
+https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
+(important)https://hackingandslacking.com/google-bigquerys-python-sdk-creating-tables-programmatically-55b326e8735b
+https://towardsdatascience.com/build-a-pipeline-for-harvesting-medium-top-author-data-c4d7ed73729f
 https://towardsdatascience.com/where-are-the-best-customers-marketing-analytics-in-sql-and-python-a20ca16968ea        
 http://karllorey.com/blog/keeping-pandas-dataframes-clean-importing-json-context-managers/        
 https://gist.github.com/jitkasempin/9a41f318c517f30dcd616001ffc75501         
@@ -79,6 +77,28 @@ https://medium.com/quark-works/ml-cloud-computing-part-2-connecting-pycharm-to-p
 https://medium.com/quark-works/ml-cloud-computing-part-1-setting-up-paperspace-9285a00cc1f3
 https://github.com/GoogleCloudPlatform/professional-services
 https://github.com/Agosto/gcp-billing-examples-bigquery
+
+1. https://medium.com/@dinuka.roshan/kafka-streams-ftw-82e2e852b903
+2. https://medium.com/traackr-devs/athena-vs-q-battle-of-the-data-parsers-7c5a7b522b3f
+3. http://harelba.github.io/q/index.html
+4. https://towardsdatascience.com/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418
+5. https://itnext.io/what-i-learned-switching-from-circleci-to-google-cloud-build-b4405de2be38
+6. https://towardsdatascience.com/new-in-hadoop-you-should-know-the-various-file-format-in-hadoop-4fcdfa25d42b
+7. https://towardsdatascience.com/bigquery-without-a-credit-card-discover-learn-and-share-199e08d4a064
+8. https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec
+9. https://medium.com/@basterrika/lets-understand-what-an-api-is-7072eb091e76
+10. https://medium.com/makimo-tech-blog/https-medium-com-iwoherka-working-with-pdb-in-python-8d4f3b42f3f4
+11. https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+12. https://medium.com/flatiron-engineering/upgrading-airflow-with-zero-downtime-8df303760c96
+13. https://hackingandslacking.com/extracting-massive-datasets-in-python-a7edb46c36c6
+14. https://hackingandslacking.com/deploy-app-containers-with-gcp-app-engine-1681bd120357
+15. https://towardsdatascience.com/feature-engineering-in-sql-and-python-a-hybrid-approach-b52347cd2de4
+16. https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625
+17. https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333
+18. https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1
+19. https://medium.com/@toddbirchard./learning-apache-spark-with-pyspark-databricks-9a26adba0cee
+20. https://medium.com/getindata-blog/streaming-analytics-better-than-classic-batch-when-and-why-9747c3b9841e
+
 
                                  
 
