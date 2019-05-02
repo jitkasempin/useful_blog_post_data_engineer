@@ -1,20 +1,35 @@
 # Useful blog post for data engineer
 
 https://towardsdatascience.com/airflow-and-superquery-9acc87c0398d
+
 https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0
+
 https://stuff.technology/visualizing-google-big-query-datasets-in-powerbi-a01888dfb9e4
+
 https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f
+
 https://towardsdatascience.com/when-excel-isnt-enough-using-python-to-clean-your-data-automate-excel-and-much-more-a154c6bf9b49
+
 https://nuclio.io/
+
 https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
+
 https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
+
 (important)https://hackingandslacking.com/google-bigquerys-python-sdk-creating-tables-programmatically-55b326e8735b
+
 https://towardsdatascience.com/build-a-pipeline-for-harvesting-medium-top-author-data-c4d7ed73729f
+
 https://towardsdatascience.com/where-are-the-best-customers-marketing-analytics-in-sql-and-python-a20ca16968ea        
+
 http://karllorey.com/blog/keeping-pandas-dataframes-clean-importing-json-context-managers/        
+
 https://gist.github.com/jitkasempin/9a41f318c517f30dcd616001ffc75501         
+
 https://medium.com/@varunabhi86/movie-recommendation-using-apache-spark-1a41e24b94ba         
+
 https://towardsdatascience.com/enlightened-datalab-notebooks-35ce8ef374c0         
+
 https://towardsdatascience.com/transforming-bigquery-json-api-responses-recursively-5c462f5b01         
 (important) https://hackingandslacking.com/from-csvs-to-tables-infer-schema-data-types-from-raw-spreadsheets-ea0b162b6a4c      
 https://medium.com/coriers/problem-solving-with-sql-b0ad58fe8643          
